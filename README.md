@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Debnath225
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning ..
+- 🌱 I’m currently learning ...
+- DSA , Javascript , CSS..
+  
 
 <!---
 Debnath225/Debnath225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
