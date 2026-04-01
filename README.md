@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Debnath225
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning ...
--  Javascript , CSS,Tailwind CSS, Node, PHP
+-  Javascript,React ,Tailwind CSS, Node, PHP
   
 
 <!---
